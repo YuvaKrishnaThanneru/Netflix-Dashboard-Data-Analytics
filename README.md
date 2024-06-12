@@ -1,7 +1,7 @@
 <div align="center">
   <h1 style="color:#8a2be2; margin-right: 20px;">Netflix-Dashboard-Data-Analytics 🔍</h1>
-  <img src="https://github.com/YuvaKrishnaThanneru/Netflix-Dashboard-Data-Analytics/assets/171606388/0171cbd4-7645-449e-9499-f423413d3c93" width="500">
-  <img src="https://github.com/YuvaKrishnaThanneru/Netflix-Dashboard-Data-Analytics/assets/171606388/cd3dd851-8e59-46dc-bb25-853d9c010a60" width="500">
+  <img src="https://github.com/YuvaKrishnaThanneru/Netflix-Dashboard-Data-Analytics/assets/171606388/0171cbd4-7645-449e-9499-f423413d3c93" width="360">
+  <img src="https://github.com/YuvaKrishnaThanneru/Netflix-Dashboard-Data-Analytics/assets/171606388/cd3dd851-8e59-46dc-bb25-853d9c010a60" width="360">
 </div>
 
 ## Overview
